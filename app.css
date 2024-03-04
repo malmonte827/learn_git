@@ -4,3 +4,7 @@ h1{
 h2{
     font-size: 40p;
 }
+
+h1, h2{
+    color: purple;
+}
