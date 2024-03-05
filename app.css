@@ -6,5 +6,9 @@ h2{
 }
 
 h1, h2{
+<<<<<<< HEAD
     color: orchid;
+=======
+    color: teal;
+>>>>>>> teal-bg
 }
